@@ -207,13 +207,13 @@ h1 {
 }
 
 .card__img--mvc{
-  background: url('https://github.com/EduardoUni20/Portafolio/blob/main/img/proyectoCarrito.jpg');
+  background: url('https://raw.githubusercontent.com/EduardoUni20/Portafolio/refs/heads/main/img/proyectoCarrito.jpg');
   background-size:  cover;
   background-position: center;
 }
 
 .card__img--port{
-  background: url("https://github.com/EduardoUni20/Portafolio/blob/main/img/portfolio.jpg");
+  background: url(https://raw.githubusercontent.com/EduardoUni20/Portafolio/refs/heads/main/img/proyectoCarrito.jpg);
   background-size: cover;
   background-position: center;
 }
