@@ -201,19 +201,19 @@ h1 {
 }
 
 .card__img-carrito {
-  background: url("https://github.com/EduardoUni20/Portafolio/blob/main/img/carritoComida.jpg");
+  background: url("/img/carritoComida.jpg");
   background-size: cover;
   background-position: center;
 }
 
 .card__img--mvc{
-  background: url('https://raw.githubusercontent.com/EduardoUni20/Portafolio/refs/heads/main/img/proyectoCarrito.jpg');
+  background: url('Portafolio/img/proyectoCarrito.jpg');
   background-size:  cover;
   background-position: center;
 }
 
 .card__img--port{
-  background: url(https://raw.githubusercontent.com/EduardoUni20/Portafolio/refs/heads/main/img/proyectoCarrito.jpg);
+  background: url("/Portafolio/img/portfolio.jpg");
   background-size: cover;
   background-position: center;
 }
