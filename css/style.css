@@ -201,19 +201,19 @@ h1 {
 }
 
 .card__img-carrito {
-  background: url(./img/carritoComida.jpg);
+  background: url('./img/carritoComida.jpg');
   background-size: cover;
   background-position: center;
 }
 
 .card__img--mvc{
-  background: url(./img/proyectoCarrito.jpg);
+  background: url('./img/proyectoCarrito.jpg');
   background-size:  cover;
   background-position: center;
 }
 
 .card__img--port{
-  background: url(./img/portfolio.jpg);
+  background: url('./img/portfolio.jpg');
   background-size: cover;
   background-position: center;
 }
