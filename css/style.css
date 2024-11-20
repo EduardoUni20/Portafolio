@@ -213,7 +213,7 @@ h1 {
 }
 
 .card__img--port{
-  background: url("/Portafolio/img/portfolio.jpg");
+  background: url("https://raw.githubusercontent.com/EduardoUni20/Portafolio/refs/heads/main/img/proyectoCarrito.jpg");
   background-size: cover;
   background-position: center;
 }
